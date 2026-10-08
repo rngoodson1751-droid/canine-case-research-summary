@@ -1,0 +1,11 @@
+# Default deny; explicitly allow reviewed prose only.
+*
+!.gitignore
+!README.md
+!PRIVACY.md
+!research/
+!research/*.md
+!methods/
+!methods/*.md
+!.github/
+!.github/PULL_REQUEST_TEMPLATE.md
